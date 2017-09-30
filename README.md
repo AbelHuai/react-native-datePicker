@@ -6,8 +6,9 @@
 ##  3.
 ##  import DatePicker from 'react-native-datepicker-yf'
 
-##  DatePicker是个dialog所以 this.datePicker.showDialog()是展示DatePicker
+![image](https://github.com/AbelHuai/master/04052A13-367F-4497-93F1-A6775FC40CC9.jpg)
 
+##  DatePicker是个dialog所以 this.datePicker.showDialog()是展示DatePicker
 >  <DatePicker \
       ref={(dialog) => { \
          this.datePicker = dialog \
